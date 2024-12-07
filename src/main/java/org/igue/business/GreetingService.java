@@ -1,4 +1,4 @@
-package org.igue;
+package org.igue.business;
 
 import javax.enterprise.context.ApplicationScoped;
 
